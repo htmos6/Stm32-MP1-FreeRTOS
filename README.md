@@ -17,3 +17,8 @@
    Clone the repository to your desired location:  
    ```bash
    git clone https://github.com/htmos6/FREERTOS-BASE.git
+
+1. **In case of Path Error for the FreeRTOS Installation**
+    - Follow the below instructions.
+    - 
+![freertos](https://github.com/user-attachments/assets/ce9fe31f-740d-4c50-81d1-76a27fd025ef)
