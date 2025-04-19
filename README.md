@@ -1,4 +1,4 @@
-# FREERTOS-BASE
+# Stm32-MP1-FreeRTOS
 
 ## Setup Instructions
 
