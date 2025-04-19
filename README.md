@@ -16,7 +16,7 @@
 2. **Clone This Repository**  
    Clone the repository to your desired location:  
    ```bash
-   git clone https://github.com/htmos6/FREERTOS-BASE.git
+   git clone https://github.com/htmos6/Stm32-MP1-FreeRTOS.git
 
 1. **In case of Path Error for the FreeRTOS Installation**
     - Follow the below instructions.
